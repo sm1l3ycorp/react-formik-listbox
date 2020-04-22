@@ -1,0 +1,21 @@
+.listBoxLabel {
+    display: flex;
+    justify-content: center;
+}
+
+.listBox {
+    width: 200px;
+}
+
+.icon {
+    float: right;
+    margin-top: 5px;
+}
+
+.iconInfo {
+    margin-right: 10px;
+}
+
+.error {
+    color: red;
+}
